@@ -1,0 +1,55 @@
+uniq_reg_code,uniq_region,survey,region
+BF6_01,BF6_Boucle de Mouhoun,BF6,Boucle de Mouhoun
+BF6_02,BF6_Cascades,BF6,Cascades
+BF6_03,BF6_Centre,BF6,Centre
+BF6_04,BF6_Centre-Est,BF6,Centre-Est
+BF6_05,BF6_Centre-Nord,BF6,Centre-Nord
+BF6_06,BF6_Centre-Ouest,BF6,Centre-Ouest
+BF6_07,BF6_Centre-Sud,BF6,Centre-Sud
+BF6_08,BF6_Est,BF6,Est
+BF6_09,BF6_Hauts Basins,BF6,Hauts Basins
+BF6_10,BF6_Nord,BF6,Nord
+BF6_11,BF6_Plateau Central,BF6,Plateau Central
+BF6_13,BF6_Sud-Ouest,BF6,Sud-Ouest
+BF6_12,BF6_Sahel,BF6,Sahel
+CI6_03,CI6_Centre-Nord,CI6,Centre-Nord
+CI6_10,CI6_Sud-Ouest,CI6,Sud-Ouest
+CI6_06,CI6_Nord-Est,CI6,Nord-Est
+CI6_08,CI6_Ouest,CI6,Ouest
+CI6_01,CI6_Centre,CI6,Centre
+CI6_02,CI6_Centre-Est,CI6,Centre-Est
+CI6_04,CI6_Centre-Ouest,CI6,Centre-Ouest
+CI6_05,CI6_Nord,CI6,Nord
+CI6_09,CI6_Sud sans Abidjan,CI6,Sud sans Abidjan
+CI6_07,CI6_Nord-Ouest,CI6,Nord-Ouest
+CI6_11,CI6_Ville D'Abidjan,CI6,Ville D'Abidjan
+GH6_05,GH6_Brong Ahafo,GH6,Brong Ahafo
+GH6_04,GH6_Northern,GH6,Northern
+GH6_06,GH6_Volta,GH6,Volta
+GH6_03,GH6_Upper West,GH6,Upper West
+GH6_07,GH6_Central,GH6,Central
+GH6_10,GH6_Eastern,GH6,Eastern
+GH6_08,GH6_Greater Accra,GH6,Greater Accra
+GH6_02,GH6_Western,GH6,Western
+GH6_09,GH6_Ashanti,GH6,Ashanti
+GH6_01,GH6_Upper East,GH6,Upper East
+GN6_05,GN6_Kindia,GN6,Kindia
+GN6_07,GN6_Mamou,GN6,Mamou
+GN6_03,GN6_Faranah,GN6,Faranah
+GN6_02,GN6_Conakry,GN6,Conakry
+GN6_01,GN6_Boke,GN6,Boke
+GN6_06,GN6_Labe,GN6,Labe
+GN6_04,GN6_Kankan,GN6,Kankan
+GN6_08,GN6_N'Zerekore,GN6,N'Zerekore
+TG6_03,TG6_kara,TG6,kara
+TG6_02,TG6_grande agglomeration de lome,TG6,grande agglomeration de lome
+TG6_06,TG6_savanes,TG6,savanes
+TG6_05,TG6_plateaux,TG6,plateaux
+TG6_04,TG6_maritime (sans agglomeration de lome),TG6,maritime (sans agglomeration de lome)
+TG6_01,TG6_centrale,TG6,centrale
+NG6_01,NG6_North Central,NG6,North Central
+NG6_02,NG6_North East,NG6,North East
+NG6_03,NG6_North West,NG6,North West
+NG6_04,NG6_South East,NG6,South East
+NG6_05,NG6_South South,NG6,South South
+NG6_06,NG6_South West,NG6,South West
